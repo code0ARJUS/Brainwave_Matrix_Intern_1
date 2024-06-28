@@ -25,7 +25,7 @@ To run the Password Strength Checker locally, follow these steps:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/your-repository-name.git
+ https://github.com/code0ARJUS/Brainwave_Matrix_Intern_1.git
     ```
 
 2. **Navigate to the Project Directory**:
@@ -46,14 +46,7 @@ The Password Strength Checker is hosted using GitHub Pages. To deploy your own v
 
     Make sure your project is pushed to a GitHub repository.
 
-2. **Enable GitHub Pages**:
 
-    - Go to your repository's settings.
-    - Scroll down to the "GitHub Pages" section.
-    - Select the branch you want to deploy from (usually `main` or `gh-pages`).
-    - Click "Save".
-
-    Your project will be accessible at `https://yourusername.github.io/your-repository-name`.
 
 ## Usage
 
@@ -76,7 +69,5 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any inquiries or feedback, please contact [yourname@example.com](mailto:yourname@example.com).
 
